@@ -1,5 +1,5 @@
 my:
-  greetings: new new Newly Updated Hello World from config client micro service 
+  greetings:http://localhost:8080/insurance-service/getAllPlans 
   list:
      values: One, Two, Three
 db:
