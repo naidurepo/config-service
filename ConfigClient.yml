@@ -1,5 +1,5 @@
 my:
-  greetings: Few Seconds ago Newly Updated Hello World from config client micro service 
+  greetings: new new Newly Updated Hello World from config client micro service 
   list:
      values: One, Two, Three
 db:
