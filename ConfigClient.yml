@@ -8,4 +8,4 @@ db:
   port: 1300
 client:
      insurance:
-             url=/insurance-service/getAllPlans  
+             url=http://localhost:8080/insurance-service/getAllPlans  
