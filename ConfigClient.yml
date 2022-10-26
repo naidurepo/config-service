@@ -6,3 +6,6 @@ db:
   connection: connection-string-here-from-config-client micro serice
   host: 127.0.0.1
   port: 1300
+client:
+     insurance:
+             url=/insurance-service/getAllPlans  
