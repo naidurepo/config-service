@@ -3,6 +3,6 @@ my:
   list:
      values: One, Two, Three
 db:
-  connection: Newly Updated connection-string-here-from-config-client micro serice
+  connection: Few Seconds Newly Updated connection-string-here-from-config-client micro serice
   host: 127.0.0.1
   port: 1300  
