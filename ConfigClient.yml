@@ -1,11 +1,8 @@
 my:
-  greetings:http://localhost:8080/insurance-service/getAllPlans 
+  greetings: http://localhost:8080/insurance-service/getAllPlans 
   list:
      values: One, Two, Three
 db:
   connection: connection-string-here-from-config-client micro serice
   host: 127.0.0.1
-  port: 1300
-client:
-     insurance:
-            url:http://localhost:8080/insurance-service/getAllPlans  
+  port: 1300  
