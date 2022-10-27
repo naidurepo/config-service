@@ -1,5 +1,5 @@
 my:
-  greetings: Hello World from config server
+  greetings: http://localhost:8080/insurance-service/getAllPlans
   list:
      values: One, Two, Three
 db:
